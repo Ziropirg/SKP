@@ -1,0 +1,309 @@
+<DatasmithUnrealScene>
+	<Version>0.23</Version>
+	<SDKVersion>4.23E1</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="2019"/>
+	<User ID="6a8489734ccbebab201cca9bd3eb5521" OS="Windows 10 (Release 1809)"/>
+	<StaticMesh name="Maf9641e6ecd32207d6bcb175421017a3_1" label="Left_wall">
+		<file path="Room_Assets/Maf9641e6ecd32207d6bcb175421017a3_1.udsmesh"/>
+		<Size a="43155.214844" x="4.031496" y="156.094498" z="107.362206"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="62f97caa475f59ef4de3f27da9726e2f"/>
+	</StaticMesh>
+	<StaticMesh name="Mfd5103745cd405f8dad650d20f399b73_1" label="Right_wal">
+		<file path="Room_Assets/Mfd5103745cd405f8dad650d20f399b73_1.udsmesh"/>
+		<Size a="43155.214844" x="4.031496" y="156.094498" z="107.362206"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c468f63a55738e95b22147c4267f0baf"/>
+	</StaticMesh>
+	<StaticMesh name="M3907f910715724eb2a7f2b83a228e57b_1" label="back_wall">
+		<file path="Room_Assets/M3907f910715724eb2a7f2b83a228e57b_1.udsmesh"/>
+		<Size a="40148.8125" x="305.68692" y="7.874016" z="107.362206"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fea9fc4b3324eeab4b5ed3dc567bc4e0"/>
+	</StaticMesh>
+	<StaticMesh name="M7515875808ef6219fa6fd725e2105588_1" label="floor">
+		<file path="Room_Assets/M7515875808ef6219fa6fd725e2105588_1.udsmesh"/>
+		<Size a="2765.453613" x="156.094482" y="156.094482" z="3.937008"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7aa73ad9e5aa59252c40b49ee68f230b"/>
+	</StaticMesh>
+	<StaticMesh name="Mab095a2f90c239711b7687d6e9747b5b_1" label="front_wall">
+		<file path="Room_Assets/Mab095a2f90c239711b7687d6e9747b5b_1.udsmesh"/>
+		<Size a="36828.511719" x="305.68692" y="7.874016" z="107.362206"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="74ace8b6f9c83de2727a85bc2e26fb8d"/>
+	</StaticMesh>
+	<StaticMesh name="Mf44e14d49cd011d1e873d9fe0c4624f1_1" label="Door">
+		<file path="Room_Assets/Mf44e14d49cd011d1e873d9fe0c4624f1_1.udsmesh"/>
+		<Size a="9791.555664" x="35.433071" y="5.293682" z="86.614174"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="597b00297141ac0dbbd65cf457045998"/>
+		<Material id="54" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+		<Material id="52" name="rockit3d_material_wood_cherry_american-Le2b9f58775f53739b38f1b04def3ae6c"/>
+	</StaticMesh>
+	<StaticMesh name="M51c45b795d5d18a3e4e0c37e8b20a141_1" label="Table">
+		<file path="Room_Assets/M51c45b795d5d18a3e4e0c37e8b20a141_1.udsmesh"/>
+		<Size a="72796.585938" x="222.047241" y="35.433071" z="43.700787"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5a25260d19f78b8912d310da0b24a844"/>
+		<Material id="52" name="rockit3d_material_wood_cherry_american-Le2b9f58775f53739b38f1b04def3ae6c"/>
+		<Material id="54" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+	</StaticMesh>
+	<StaticMesh name="Mbb53c62475a4f28295dfd71302a53a3d_1" label="Shelves">
+		<file path="Room_Assets/Mbb53c62475a4f28295dfd71302a53a3d_1.udsmesh"/>
+		<Size a="22615.775391" x="222.047241" y="19.488188" z="45.236221"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0100181f306cf4ba00cf8b3a550f102d"/>
+		<Material id="52" name="rockit3d_material_wood_cherry_american-Le2b9f58775f53739b38f1b04def3ae6c"/>
+		<Material id="54" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+	</StaticMesh>
+	<StaticMesh name="Me59df117909c6a08c112b409d6a33a3e_1" label="Shelving">
+		<file path="Room_Assets/Me59df117909c6a08c112b409d6a33a3e_1.udsmesh"/>
+		<Size a="11996.302734" x="31.4025" y="59.055119" z="106.29921"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="96fbabc346e8cf7e1d011eac7fb5eca8"/>
+		<Material id="54" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+		<Material id="52" name="rockit3d_material_wood_cherry_american-Le2b9f58775f53739b38f1b04def3ae6c"/>
+	</StaticMesh>
+	<StaticMesh name="Mc11baaae0f2a8ca91c9e9eba22278f29_1" label="Corner_table">
+		<file path="Room_Assets/Mc11baaae0f2a8ca91c9e9eba22278f29_1.udsmesh"/>
+		<Size a="49693.816406" x="118.241577" y="78.030533" z="43.700787"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e184ba4438a59da70acd55953829047a"/>
+		<Material id="54" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+		<Material id="52" name="rockit3d_material_wood_cherry_american-Le2b9f58775f53739b38f1b04def3ae6c"/>
+	</StaticMesh>
+	<StaticMesh name="M9914a0ce04a7b7b6a8e39bec55064b82_1" label="Light">
+		<file path="Room_Assets/M9914a0ce04a7b7b6a8e39bec55064b82_1.udsmesh"/>
+		<Size a="2784.046875" x="71.456696" y="14.764381" z="65.634651"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="fbcac5fd31ff781414f892d47e636ced"/>
+		<Material id="54" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+		<Material id="46" name="Philips_20Incandescent_20A-19_20Light_20Bulb-Ldd12ebb26b14c4a861d165b59beb8e98"/>
+	</StaticMesh>
+	<StaticMesh name="M34d2cc2dd03b1c67b64f6cdada0e49de_1" label="Spot_light">
+		<file path="Room_Assets/M34d2cc2dd03b1c67b64f6cdada0e49de_1.udsmesh"/>
+		<Size a="82.148438" x="7.874016" y="7.874016" z="26.968504"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="028f624c130b537edf0b427292646000"/>
+		<Material id="46" name="Philips_20Incandescent_20A-19_20Light_20Bulb-Ldd12ebb26b14c4a861d165b59beb8e98"/>
+		<Material id="54" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+	</StaticMesh>
+	<ActorMesh name="SU_1254_1" label="Left_wall" layer="Layer0">
+		<mesh name="Maf9641e6ecd32207d6bcb175421017a3_1"/>
+		<material id="0" name="Field_Square_Tile-Id2af8f3d413f7988916a984adeb87cb2"/>
+		<Transform tx="145.969238" ty="163.368027" tz="5.0" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0NjPC6pLX7XhioSRdY8yD3" />
+		<tag value="SU.PATH.0.1254" />
+	</ActorMesh>
+	<ActorMesh name="SU_1255_1" label="Right_wal" layer="Layer0">
+		<mesh name="Mfd5103745cd405f8dad650d20f399b73_1"/>
+		<material id="0" name="Field_Square_Tile-Id2af8f3d413f7988916a984adeb87cb2"/>
+		<Transform tx="-1034.057983" ty="163.368027" tz="5.0" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1nMmnqVCz5OPRHqn$J44DN" />
+		<tag value="SU.PATH.0.1255" />
+	</ActorMesh>
+	<ActorMesh name="SU_1312_1" label="back_wall" layer="Layer0">
+		<mesh name="M3907f910715724eb2a7f2b83a228e57b_1"/>
+		<material id="0" name="Field_Square_Tile-Id2af8f3d413f7988916a984adeb87cb2"/>
+		<Transform tx="-188.669357" ty="245.868027" tz="5.0" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0Erkn1Oyj4KBrmZYMKZW1N" />
+		<tag value="SU.PATH.0.1312" />
+	</ActorMesh>
+	<ActorMesh name="SU_1367_1" label="floor" layer="Layer0">
+		<mesh name="M7515875808ef6219fa6fd725e2105588_1"/>
+		<material id="0" name="Wood_Square_Tile_01-I82cedff6bd372effc9cb688236e197c9"/>
+		<Transform tx="145.969238" ty="-57.371979" tz="-25.0" sx="7.6581" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0UabuLx4b3TwiUIJPBZQ8_" />
+		<tag value="SU.PATH.0.1367" />
+	</ActorMesh>
+	<ActorMesh name="SU_1626_1" label="front_wall" layer="Layer0">
+		<mesh name="Mab095a2f90c239711b7687d6e9747b5b_1"/>
+		<material id="0" name="Field_Square_Tile-Id2af8f3d413f7988916a984adeb87cb2"/>
+		<Transform tx="-188.669357" ty="-288.85199" tz="5.0" sx="-3.81" sy="-3.81" sz="-3.81" qx="0.0" qy="-1.0" qz="0.0" qw="-0.0" qhex="00000080FEFF7FBF00000000000000B4"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2XCxIWnGj2EfgMs6HnR80S" />
+		<tag value="SU.PATH.0.1626" />
+	</ActorMesh>
+	<ActorMesh name="SU_9560_1" label="Door" layer="Layer0">
+		<mesh name="Mf44e14d49cd011d1e873d9fe0c4624f1_1"/>
+		<Transform tx="-385.348602" ty="-314.32843" tz="5.0" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3zm9GPZuzAQwTuGNUgdK0x" />
+		<tag value="SU.PATH.0.9560" />
+	</ActorMesh>
+	<ActorMesh name="SU_170097_1" label="Table" layer="Layer0">
+		<mesh name="M51c45b795d5d18a3e4e0c37e8b20a141_1"/>
+		<Transform tx="-169.724365" ty="155.868027" tz="5.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3xv0ITCzT59PFEJzACEjXy" />
+		<tag value="SU.PATH.0.170097" />
+	</ActorMesh>
+	<ActorMesh name="SU_170605_1" label="Shelves" layer="Layer0">
+		<mesh name="Mbb53c62475a4f28295dfd71302a53a3d_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-169.724365" ty="193.066605" tz="242.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3AYX0nZIjFVOzUlVdCvTVq" />
+		<tag value="SU.PATH.0.170605" />
+	</ActorMesh>
+	<ActorMesh name="SU_259511_1" label="Shelving" layer="Layer0">
+		<mesh name="Me59df117909c6a08c112b409d6a33a3e_1"/>
+		<Transform tx="130.609238" ty="-270.590729" tz="5.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1fYPR8RA10vwcH8hj2iFzN" />
+		<tag value="SU.PATH.0.259511" />
+	</ActorMesh>
+	<ActorMesh name="SU_259909_1" label="Shelving" layer="Layer0">
+		<mesh name="Me59df117909c6a08c112b409d6a33a3e_1"/>
+		<Transform tx="130.609238" ty="-120.590736" tz="5.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1fYPR8RA10vwcH8hj2iFzN" />
+		<tag value="SU.PATH.0.259909" />
+	</ActorMesh>
+	<ActorMesh name="SU_260307_1" label="Shelving" layer="Layer0">
+		<mesh name="Me59df117909c6a08c112b409d6a33a3e_1"/>
+		<Transform tx="-954.295593" ty="-120.590736" tz="5.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1fYPR8RA10vwcH8hj2iFzN" />
+		<tag value="SU.PATH.0.260307" />
+	</ActorMesh>
+	<ActorMesh name="SU_260705_1" label="Shelving" layer="Layer0">
+		<mesh name="Me59df117909c6a08c112b409d6a33a3e_1"/>
+		<Transform tx="-954.295593" ty="-270.590729" tz="5.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1fYPR8RA10vwcH8hj2iFzN" />
+		<tag value="SU.PATH.0.260705" />
+	</ActorMesh>
+	<ActorMesh name="SU_278032_1" label="Corner_table" layer="Layer0">
+		<mesh name="Mc11baaae0f2a8ca91c9e9eba22278f29_1"/>
+		<Transform tx="-733.724365" ty="47.67046" tz="5.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1oRFll9gL4tfMaaAwhRwqz" />
+		<tag value="SU.PATH.0.278032" />
+	</ActorMesh>
+	<ActorMesh name="SU_285529_1" label="Corner_table" layer="Layer0">
+		<mesh name="Mc11baaae0f2a8ca91c9e9eba22278f29_1"/>
+		<Transform tx="-169.704361" ty="47.67046" tz="5.0" sx="-2.54" sy="-2.54" sz="-2.54" qx="1.0" qy="0.0" qz="0.0" qw="-0.0" qhex="FEFF7F3F0000000000000000000000B4"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1oRFll9gL4tfMaaAwhRwqz" />
+		<tag value="SU.PATH.0.285529" />
+	</ActorMesh>
+	<ActorMesh name="SU_576182_1" label="Light" layer="Layer0">
+		<mesh name="M9914a0ce04a7b7b6a8e39bec55064b82_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-360.529083" ty="136.857697" tz="247.337982" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2bgpSs9gr8DwLtI4g5DVb1" />
+		<tag value="SU.PATH.0.576182" />
+	</ActorMesh>
+	<ActorMesh name="SU_676500_1" label="Spot_light" layer="Layer0">
+		<mesh name="M34d2cc2dd03b1c67b64f6cdada0e49de_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="31.559759" ty="108.095352" tz="311.299988" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0ovEJOZUP8uhCFjnGev2Pw" />
+		<tag value="SU.PATH.0.676500" />
+	</ActorMesh>
+	<ActorMesh name="SU_687160_1" label="Spot_light" layer="Layer0">
+		<mesh name="M34d2cc2dd03b1c67b64f6cdada0e49de_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-908.333069" ty="127.984756" tz="311.299988" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0ovEJOZUP8uhCFjnGev2Pw" />
+		<tag value="SU.PATH.0.687160" />
+	</ActorMesh>
+	<ActorMesh name="SU_697820_1" label="Spot_light" layer="Layer0">
+		<mesh name="M34d2cc2dd03b1c67b64f6cdada0e49de_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-154.296539" ty="-116.978104" tz="311.299988" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0ovEJOZUP8uhCFjnGev2Pw" />
+		<tag value="SU.PATH.0.697820" />
+	</ActorMesh>
+	<ActorMesh name="SU_708480_1" label="Spot_light" layer="Layer0">
+		<mesh name="M34d2cc2dd03b1c67b64f6cdada0e49de_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-718.609741" ty="-117.271683" tz="311.299988" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0ovEJOZUP8uhCFjnGev2Pw" />
+		<tag value="SU.PATH.0.708480" />
+	</ActorMesh>
+	<ActorMesh name="SU_719140_1" label="Spot_light" layer="Layer0">
+		<mesh name="M34d2cc2dd03b1c67b64f6cdada0e49de_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-436.89386" ty="-116.901665" tz="311.299988" sx="3.81" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0ovEJOZUP8uhCFjnGev2Pw" />
+		<tag value="SU.PATH.0.719140" />
+	</ActorMesh>
+	<ActorMesh name="SU_1047254_1" label="floor" layer="Layer0">
+		<mesh name="M7515875808ef6219fa6fd725e2105588_1"/>
+		<material id="0" name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"/>
+		<Transform tx="145.969238" ty="-57.371979" tz="399.049988" sx="7.6581" sy="3.81" sz="3.81" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0UabuLx4b3TwiUIJPBZQ8_" />
+		<tag value="SU.PATH.0.1047254" />
+	</ActorMesh>
+	<Texture name="Philips_20Incandescent_20A-19_20Light_20Bulb" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="Room_Assets/Philips%20Incandescent%20A-19%20Light%20Bulb.jpg">
+		<Hash value="12f16554756bf441f292de04efb87067"/>
+	</Texture>
+	<Texture name="Field_Square_Tile" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="Room_Assets/Field_Square_Tile.jpg">
+		<Hash value="2cb761a12bb5fd02762cf7519129ccb7"/>
+	</Texture>
+	<Texture name="Wood_Square_Tile_01" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="Room_Assets/Wood_Square_Tile_01.jpg">
+		<Hash value="b4ab5cb94af840b1797e20e668377224"/>
+	</Texture>
+	<Texture name="rockit3d_material_wood_cherry_american" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="Room_Assets/rockit3d_material_wood_cherry_american.png">
+		<Hash value="5d1032c7434e81fc943758731a217fdf"/>
+	</Texture>
+	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Philips_20Incandescent_20A-19_20Light_20Bulb-Ldd12ebb26b14c4a861d165b59beb8e98"  label="Philips_20Incandescent_20A-19_20Light_20Bulb" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.806952,G=0.806952,B=0.799103,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Philips%20Incandescent%20A-19%20Light%20Bulb.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Field_Square_Tile-Id2af8f3d413f7988916a984adeb87cb2"  label="Field_Square_Tile" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.693872,G=0.584078,B=0.396755,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Field_Square_Tile.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=0.041667,G=-0.041667,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Wood_Square_Tile_01-I82cedff6bd372effc9cb688236e197c9"  label="Wood_Square_Tile_01" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.371238,G=0.104616,B=0.025187,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Wood_Square_Tile_01.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=0.083333,G=-0.083333,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="rockit3d_material_wood_cherry_american-Le2b9f58775f53739b38f1b04def3ae6c"  label="rockit3d_material_wood_cherry_american" Type="2" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.545724,G=0.304987,B=0.149960,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="rockit3d_material_wood_cherry_american.png"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+		<KeyValueProperty name="Opacity" type="Float" val="1.000000"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_M08-G6a38b07327f257d7cab52a100bb8c056"  label="Color_M08" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.019382,G=0.019382,B=0.019382,A=1.000000)"/>
+	</MasterMaterial>
+	<Export Duration="3"/>
+</DatasmithUnrealScene>

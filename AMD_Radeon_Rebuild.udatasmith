@@ -1,0 +1,464 @@
+<DatasmithUnrealScene>
+	<Version>0.23</Version>
+	<SDKVersion>4.23E1</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="2019"/>
+	<User ID="6a8489734ccbebab201cca9bd3eb5521" OS="Windows 10 (Release 1809)"/>
+	<StaticMesh name="Me3ba94247bd86c05c54d37b572cc9f32_1" label="Video_card_fan_connector">
+		<file path="AMD_Radeon_Rebuild_Assets/Me3ba94247bd86c05c54d37b572cc9f32_1.udsmesh"/>
+		<Size a="29.713331" x="1.062992" y="3.700787" z="3.267717"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="709ba1cdb1f625e26a93ae4e1aa89379"/>
+		<Material id="58" name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"/>
+		<Material id="59" name="Plastik_czarny-G8b7de129ea66e27b00aaa6d52a01f0e9"/>
+	</StaticMesh>
+	<StaticMesh name="M8289c925c830bb1e1d946740b12f905a_1" label="Video_Card_element__2">
+		<file path="AMD_Radeon_Rebuild_Assets/M8289c925c830bb1e1d946740b12f905a_1.udsmesh"/>
+		<Size a="20.100306" x="2.46063" y="3.53937" z="1.382768"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e5feed9ba01d70da9fec80b46189615d"/>
+		<Material id="65" name="ceramika_elekroniczna-G6876fb7e1c98844e8bddf701066e2526"/>
+		<Material id="54" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+	</StaticMesh>
+	<StaticMesh name="Mdcd97db0418b9335f678a5db0ce5796d_1" label="Video_Card_element__1">
+		<file path="AMD_Radeon_Rebuild_Assets/Mdcd97db0418b9335f678a5db0ce5796d_1.udsmesh"/>
+		<Size a="24.644018" x="2.496063" y="4.038715" z="1.382768"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="213159f2ed975c93f4f67dc637bfb02d"/>
+		<Material id="65" name="ceramika_elekroniczna-G6876fb7e1c98844e8bddf701066e2526"/>
+		<Material id="54" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="Md2df42c2383edca886c61a9004a9836c_1" label="Video_card_radiator">
+		<file path="AMD_Radeon_Rebuild_Assets/Md2df42c2383edca886c61a9004a9836c_1.udsmesh"/>
+		<Size a="16914.070313" x="70.078743" y="31.732283" z="8.661417"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="716662a85c9fe41e834f7ea24293f4b1"/>
+		<Material id="70" name="Color_002-G9d970e49df2d68bd3d5bc08875228747"/>
+	</StaticMesh>
+	<StaticMesh name="M1ce30a9bc260265dfe9e0cdfb5510f28_1" label="Video_card_throtle">
+		<file path="AMD_Radeon_Rebuild_Assets/M1ce30a9bc260265dfe9e0cdfb5510f28_1.udsmesh"/>
+		<Size a="12.896528" x="2.688976" y="2.688976" z="1.199018"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="febbc82ce8be988c36050c299c1f12be"/>
+		<Material id="54" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="M313ef72515985b32961b2386cb789ac9_1" label="Video_card_outputs">
+		<file path="AMD_Radeon_Rebuild_Assets/M313ef72515985b32961b2386cb789ac9_1.udsmesh"/>
+		<Size a="5924.681641" x="11.366486" y="48.099487" z="16.447933"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0189e073ee1f3f6e7c083d5d24689295"/>
+		<Material id="58" name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"/>
+		<Material id="66" name="Metal_DVI-Gb688d7dbf569459eb6fd85d2d4025841"/>
+		<Material id="59" name="Plastik_czarny-G8b7de129ea66e27b00aaa6d52a01f0e9"/>
+		<Material id="67" name="0046_Gold-G0862c16d4d1e89c26d0a4b89367fa622"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+		<Material id="62" name="Metal_chip-G73e85b99c5afd6dc0f3ee9f7de9bfb63"/>
+	</StaticMesh>
+	<StaticMesh name="M21374811578fb2164a0953088e8af981_1" label="Video_Card_Beeper">
+		<file path="AMD_Radeon_Rebuild_Assets/M21374811578fb2164a0953088e8af981_1.udsmesh"/>
+		<Size a="34.532761" x="3.677165" y="3.677165" z="2.8513"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8306018012c39168f98d8453bf2ab79c"/>
+		<Material id="59" name="Plastik_czarny-G8b7de129ea66e27b00aaa6d52a01f0e9"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+		<Material id="58" name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"/>
+	</StaticMesh>
+	<StaticMesh name="Mb8dbea244bc1358745f4b8aacc194f10_1" label="Video_card_resistor__3">
+		<file path="AMD_Radeon_Rebuild_Assets/Mb8dbea244bc1358745f4b8aacc194f10_1.udsmesh"/>
+		<Size a="2.495916" x="0.854331" y="1.673228" z="0.295276"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3a02e3c85213984a569f60d55e33e656"/>
+		<Material id="54" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="Mf890c04990d50b46aad3058a6c83dc40_1" label="Graphics_card_Power_Phase_Controller">
+		<file path="AMD_Radeon_Rebuild_Assets/Mf890c04990d50b46aad3058a6c83dc40_1.udsmesh"/>
+		<Size a="7.269779" x="2.485833" y="2.150591" z="0.65748"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c07ce68b402178e04430bbdc815afc9a"/>
+		<Material id="58" name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"/>
+		<Material id="59" name="Plastik_czarny-G8b7de129ea66e27b00aaa6d52a01f0e9"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+		<Material id="60" name="abit_ab9_quad_gt-L1b6bfe9ede7ca380be748d983a1c0e10"/>
+	</StaticMesh>
+	<StaticMesh name="Mf2b04ee922661e28c7a7d009d6b98302_1" label="Graphics_card_board">
+		<file path="AMD_Radeon_Rebuild_Assets/Mf2b04ee922661e28c7a7d009d6b98302_1.udsmesh"/>
+		<Size a="17565.669922" x="110.236221" y="46.310921" z="0.805476"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="af8b68ae636109aa91d84dd9f3206f91"/>
+		<Material id="68" name="t3-L0b8854ad38f0a6c65807928d28195609"/>
+		<Material id="54" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+	</StaticMesh>
+	<StaticMesh name="Mdd5173529eeee61f3b0f6fc83463d7d3_1" label="Video_Card_element__4">
+		<file path="AMD_Radeon_Rebuild_Assets/Mdd5173529eeee61f3b0f6fc83463d7d3_1.udsmesh"/>
+		<Size a="6.141793" x="1.429134" y="1.917323" z="0.829134"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e8dd8cb59bb6a77a4c0c2c09a2e591f9"/>
+		<Material id="54" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="Mc69b8864b658138a25cac2e976081d96_1" label="Video_card_casing">
+		<file path="AMD_Radeon_Rebuild_Assets/Mc69b8864b658138a25cac2e976081d96_1.udsmesh"/>
+		<Size a="3553.575439" x="110.513153" y="39.410324" z="14.212599"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d92768f64991401210f38af5961452e3"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+		<Material id="71" name="Color_A07-G8b299fb0f94b8c7fe3ffbe71fe2bd2d2"/>
+		<Material id="75" name="Color_009-G5b4467b76700e0fa86070f5ce8878854"/>
+	</StaticMesh>
+	<StaticMesh name="M441b0a106ff6ef5c0c20f00061a8b926_1" label="Video_card_resistor__2">
+		<file path="AMD_Radeon_Rebuild_Assets/M441b0a106ff6ef5c0c20f00061a8b926_1.udsmesh"/>
+		<Size a="1.276578" x="0.555118" y="0.8982" z="0.295276"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="df41d955c95bc353aa00277eb952a255"/>
+		<Material id="54" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="Mf5cb8084169e1b87d30ad31737c349ef_1" label="Video_card_resistor__1">
+		<file path="AMD_Radeon_Rebuild_Assets/Mf5cb8084169e1b87d30ad31737c349ef_1.udsmesh"/>
+		<Size a="1.577535" x="0.574803" y="0.874016" z="0.295276"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1f698db2db3fbc53f34137308233f221"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+		<Material id="54" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+	</StaticMesh>
+	<StaticMesh name="Mee6a009f39d15617cc4e2442720b84a6_1" label="Video_card_power_connector">
+		<file path="AMD_Radeon_Rebuild_Assets/Mee6a009f39d15617cc4e2442720b84a6_1.udsmesh"/>
+		<Size a="284.283234" x="5.393701" y="7.967167" z="4.330709"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e6b8781b5cd21a192efbc8497a48e4cd"/>
+		<Material id="59" name="Plastik_czarny-G8b7de129ea66e27b00aaa6d52a01f0e9"/>
+		<Material id="58" name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"/>
+	</StaticMesh>
+	<StaticMesh name="M38ad7b7c8fab0d6bc4b871e1abee4e66_1" label="Video_card_capacitor">
+		<file path="AMD_Radeon_Rebuild_Assets/M38ad7b7c8fab0d6bc4b871e1abee4e66_1.udsmesh"/>
+		<Size a="21.149426" x="3.473591" y="3.442946" z="3.307508"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e24b3e3a8672a0bad72ec0ee763f7098"/>
+		<Material id="58" name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"/>
+		<Material id="72" name="Kondensator_niebieski-Gd147dc47688214aa7176965876a049e8"/>
+	</StaticMesh>
+	<StaticMesh name="M0716be0c69a3d2bfce26b511fbd67e44_1" label="Graphics_Card_Power_Controller">
+		<file path="AMD_Radeon_Rebuild_Assets/M0716be0c69a3d2bfce26b511fbd67e44_1.udsmesh"/>
+		<Size a="16.487316" x="2.95891" y="2.95891" z="0.525984"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0c5a5e8baf1251338b2e6689a9baea4b"/>
+		<Material id="59" name="Plastik_czarny-G8b7de129ea66e27b00aaa6d52a01f0e9"/>
+		<Material id="58" name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"/>
+		<Material id="60" name="abit_ab9_quad_gt-L1b6bfe9ede7ca380be748d983a1c0e10"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="M98b56891be2cdfb350664cddfaae3dda_1" label="Video_card_chip">
+		<file path="AMD_Radeon_Rebuild_Assets/M98b56891be2cdfb350664cddfaae3dda_1.udsmesh"/>
+		<Size a="1.801201" x="1.086614" y="1.086614" z="0.295276"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="85f7b1ac9c3be6e77585a01af2a89ce3"/>
+		<Material id="54" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="Mb456ca12d98cb49a8741c01f20785699_1" label="Video_card_memory">
+		<file path="AMD_Radeon_Rebuild_Assets/Mb456ca12d98cb49a8741c01f20785699_1.udsmesh"/>
+		<Size a="24.068357" x="5.76378" y="4.84252" z="0.533664"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="eb5557976e190bede53fb8e58823d81b"/>
+		<Material id="65" name="ceramika_elekroniczna-G6876fb7e1c98844e8bddf701066e2526"/>
+		<Material id="54" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="M3f5193a394ef5829dec5a6df2aa1653b_1" label="Video_Card_Fan">
+		<file path="AMD_Radeon_Rebuild_Assets/M3f5193a394ef5829dec5a6df2aa1653b_1.udsmesh"/>
+		<Size a="2199.057861" x="30.561508" y="30.746452" z="8.238132"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a10dca07b754cf19da8bd57dd98ad4f2"/>
+		<Material id="71" name="Color_A07-G8b299fb0f94b8c7fe3ffbe71fe2bd2d2"/>
+	</StaticMesh>
+	<StaticMesh name="M4b0c7c3e42c192e20b272c131648c20a_1" label="Video_Card_element__3">
+		<file path="AMD_Radeon_Rebuild_Assets/M4b0c7c3e42c192e20b272c131648c20a_1.udsmesh"/>
+		<Size a="6.362483" x="2.057579" y="1.271654" z="0.68327"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="984451873bd230a629ed4f575d2ec7f9"/>
+		<Material id="54" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="M52f9ec21735243ad9917cda3ca077d32_1" label="GPU">
+		<file path="AMD_Radeon_Rebuild_Assets/M52f9ec21735243ad9917cda3ca077d32_1.udsmesh"/>
+		<Size a="637.877747" x="16.444685" y="16.493286" z="1.297555"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2063edf5b758d820c40b405745d87221"/>
+		<Material id="62" name="Metal_chip-G73e85b99c5afd6dc0f3ee9f7de9bfb63"/>
+		<Material id="63" name="5870_gpu-s-L55de5f95b15a1edf62aa8724ab0e0ac2"/>
+		<Material id="65" name="ceramika_elekroniczna-G6876fb7e1c98844e8bddf701066e2526"/>
+	</StaticMesh>
+	<StaticMesh name="M8b5061484602cdd768665e95da48c912_1" label="Video_card_throttles">
+		<file path="AMD_Radeon_Rebuild_Assets/M8b5061484602cdd768665e95da48c912_1.udsmesh"/>
+		<Size a="197.633255" x="4.299212" y="17.972441" z="1.199018"/>
+		<LightmapCoordinateIndex value="-1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c6e1237ab1f8ed98c878b1fa60382612"/>
+		<Material id="56" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+		<Material id="57" name="ceramika_biala-G1a1cab32125024c9e8bfb74b19b939a3"/>
+		<Material id="54" name="a4-L894f782a148b33af1e39a0efed952d69"/>
+	</StaticMesh>
+	<ActorMesh name="SU_142273_1" label="Video_card_fan_connector" layer="Layer0">
+		<mesh name="Me3ba94247bd86c05c54d37b572cc9f32_1"/>
+		<Transform tx="-267.921753" ty="14.650694" tz="72.556442" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1oTfOLvqb1axsUMOUR9aU4" />
+		<tag value="SU.PATH.0.142273" />
+	</ActorMesh>
+	<ActorMesh name="SU_142268_1" label="Video_Card_element__2" layer="Layer0">
+		<mesh name="M8289c925c830bb1e1d946740b12f905a_1"/>
+		<Transform tx="-231.650742" ty="84.675613" tz="72.060463" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2_Ztz1zVH9VBdTOKsitfsy" />
+		<tag value="SU.PATH.0.142268" />
+	</ActorMesh>
+	<ActorMesh name="SU_142267_1" label="Video_Card_element__1" layer="Layer0">
+		<mesh name="Mdcd97db0418b9335f678a5db0ce5796d_1"/>
+		<Transform tx="-48.629238" ty="73.705299" tz="72.060463" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.32h3sl4unEFxwDbhX65T4t" />
+		<tag value="SU.PATH.0.142267" />
+	</ActorMesh>
+	<ActorMesh name="SU_142251_1" label="Video_card_radiator" layer="Layer0">
+		<mesh name="Md2df42c2383edca886c61a9004a9836c_1"/>
+		<Transform tx="-103.60984" ty="45.096134" tz="129.572235" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0EG8Xb4k5CRujWGvptvaKy" />
+		<tag value="SU.PATH.0.142251" />
+	</ActorMesh>
+	<ActorMesh name="SU_142265_1" label="Video_card_throtle" layer="Layer0">
+		<mesh name="M1ce30a9bc260265dfe9e0cdfb5510f28_1"/>
+		<Transform tx="-106.325294" ty="89.689049" tz="72.060463" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2Js7V_6qjBdP9TZabBWVt5" />
+		<tag value="SU.PATH.0.142265" />
+	</ActorMesh>
+	<ActorMesh name="SU_142254_1" label="Video_card_outputs" layer="Layer0">
+		<mesh name="M313ef72515985b32961b2386cb789ac9_1"/>
+		<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+		<Transform tx="-18.775967" ty="36.360794" tz="82.139877" sx="2.54" sy="2.54" sz="2.54" qx="0.001287" qy="-0.0" qz="-0.0" qw="0.999999" qhex="9BA0A83AF1F722AF2F4300AEF2FF7F3F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0H_dH3gj1E$ejg4wpemUEC" />
+		<tag value="SU.PATH.0.142254" />
+	</ActorMesh>
+	<ActorMesh name="SU_142257_1" label="Video_Card_Beeper" layer="Layer0">
+		<mesh name="M21374811578fb2164a0953088e8af981_1"/>
+		<Transform tx="-257.654266" ty="33.158813" tz="72.060463" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2VHr$_74vAGel_ZgBH1iXS" />
+		<tag value="SU.PATH.0.142257" />
+	</ActorMesh>
+	<ActorMesh name="SU_142263_1" label="Video_card_resistor__3" layer="Layer0">
+		<mesh name="Mb8dbea244bc1358745f4b8aacc194f10_1"/>
+		<Transform tx="-52.121624" ty="42.81723" tz="72.060463" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2t5y8aMlf7Sv4tJbJoqGLU" />
+		<tag value="SU.PATH.0.142263" />
+	</ActorMesh>
+	<ActorMesh name="SU_142258_1" label="Graphics_card_Power_Phase_Controller" layer="Layer0">
+		<mesh name="Mf890c04990d50b46aad3058a6c83dc40_1"/>
+		<Transform tx="-77.810753" ty="6.104972" tz="72.556442" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1$6dp$Hc14d9juAsYpq3NL" />
+		<tag value="SU.PATH.0.142258" />
+	</ActorMesh>
+	<ActorMesh name="SU_142256_1" label="Graphics_card_board" layer="Layer0">
+		<mesh name="Mf2b04ee922661e28c7a7d009d6b98302_1"/>
+		<Transform tx="-159.093842" ty="47.659565" tz="53.133663" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3nzrmEH_H7VhIW1ITNNlOv" />
+		<tag value="SU.PATH.0.142256" />
+	</ActorMesh>
+	<ActorMesh name="SU_142270_1" label="Video_Card_element__4" layer="Layer0">
+		<mesh name="Mdd5173529eeee61f3b0f6fc83463d7d3_1"/>
+		<Transform tx="-203.763748" ty="30.580343" tz="72.060463" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1uISVzuy5BAfcdh9JVNPJD" />
+		<tag value="SU.PATH.0.142270" />
+	</ActorMesh>
+	<ActorMesh name="SU_142250_1" label="Video_card_casing" layer="Layer0">
+		<mesh name="Mc69b8864b658138a25cac2e976081d96_1"/>
+		<Transform tx="-139.75" ty="50.049999" tz="184.225693" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1ZARy8wFnFh9FJpwFhqiGY" />
+		<tag value="SU.PATH.0.142250" />
+	</ActorMesh>
+	<ActorMesh name="SU_142262_1" label="Video_card_resistor__2" layer="Layer0">
+		<mesh name="M441b0a106ff6ef5c0c20f00061a8b926_1"/>
+		<Transform tx="-49.12904" ty="62.316338" tz="72.060463" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2z_Z$gz5H9vOKPUFhOTYks" />
+		<tag value="SU.PATH.0.142262" />
+	</ActorMesh>
+	<ActorMesh name="SU_142261_1" label="Video_card_resistor__1" layer="Layer0">
+		<mesh name="Mf5cb8084169e1b87d30ad31737c349ef_1"/>
+		<Transform tx="-178.130447" ty="35.73106" tz="72.060463" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3_3ofMMI9Adwvo6DskjJJ1" />
+		<tag value="SU.PATH.0.142261" />
+	</ActorMesh>
+	<ActorMesh name="SU_142252_1" label="Video_card_power_connector" layer="Layer0">
+		<mesh name="Mee6a009f39d15617cc4e2442720b84a6_1"/>
+		<Transform tx="-82.394905" ty="93.474754" tz="79.709213" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.30i45JPvLDwPkUt0YHcRU2" />
+		<tag value="SU.PATH.0.142252" />
+	</ActorMesh>
+	<ActorMesh name="SU_142255_1" label="Video_card_capacitor" layer="Layer0">
+		<mesh name="M38ad7b7c8fab0d6bc4b871e1abee4e66_1"/>
+		<Transform tx="-247.499863" ty="82.798134" tz="72.575729" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.05cfF63m5BAPmJsQS5AJ_6" />
+		<tag value="SU.PATH.0.142255" />
+	</ActorMesh>
+	<ActorMesh name="SU_142271_1" label="Graphics_Card_Power_Controller" layer="Layer0">
+		<mesh name="M0716be0c69a3d2bfce26b511fbd67e44_1"/>
+		<Transform tx="-143.654434" ty="48.651112" tz="72.810463" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3W3Be3phv6TQKMtz6tDFVm" />
+		<tag value="SU.PATH.0.142271" />
+	</ActorMesh>
+	<ActorMesh name="SU_142266_1" label="Video_card_chip" layer="Layer0">
+		<mesh name="M98b56891be2cdfb350664cddfaae3dda_1"/>
+		<Transform tx="-73.441872" ty="19.871168" tz="72.060463" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1ljirUWIn3jR38ym9Kp5b9" />
+		<tag value="SU.PATH.0.142266" />
+	</ActorMesh>
+	<ActorMesh name="SU_142260_1" label="Video_card_memory" layer="Layer0">
+		<mesh name="Mb456ca12d98cb49a8741c01f20785699_1"/>
+		<Transform tx="-158.037415" ty="31.242672" tz="72.060463" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.26LR_PRG56dgfZaEBdkB9l" />
+		<tag value="SU.PATH.0.142260" />
+	</ActorMesh>
+	<ActorMesh name="SU_142253_1" label="Video_Card_Fan" layer="Layer0">
+		<mesh name="M3f5193a394ef5829dec5a6df2aa1653b_1"/>
+		<Transform tx="-231.977905" ty="45.696671" tz="133.779114" sx="2.54" sy="2.54" sz="2.54" qx="-0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="D0409BA7B85F15A6BD9901350000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2WhtsF9jjDCPAdRFmEW3fW" />
+		<tag value="SU.PATH.0.142253" />
+	</ActorMesh>
+	<ActorMesh name="SU_142269_1" label="Video_Card_element__3" layer="Layer0">
+		<mesh name="M4b0c7c3e42c192e20b272c131648c20a_1"/>
+		<Transform tx="-53.169308" ty="83.7202" tz="72.060463" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.019q2JfivCFvAiFD5bWmCG" />
+		<tag value="SU.PATH.0.142269" />
+	</ActorMesh>
+	<ActorMesh name="SU_142259_1" label="GPU" layer="Layer0">
+		<mesh name="M52f9ec21735243ad9917cda3ca077d32_1"/>
+		<Transform tx="-108.377708" ty="41.153217" tz="72.060463" sx="2.54" sy="2.54" sz="2.54" qx="0.018178" qy="-0.0" qz="0.0" qw="0.999835" qhex="BCE9943C074B74A692E459272CF57F3F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2yQ7efWQLBWf0VAZjCRA3p" />
+		<tag value="SU.PATH.0.142259" />
+	</ActorMesh>
+	<ActorMesh name="SU_142264_1" label="Video_card_throttles" layer="Layer0">
+		<mesh name="M8b5061484602cdd768665e95da48c912_1"/>
+		<Transform tx="-191.994446" ty="35.288727" tz="72.060463" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.057gbdGtDCyxHPSoAtGcyq" />
+		<tag value="SU.PATH.0.142264" />
+	</ActorMesh>
+	<Texture name="a4_1_" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="AMD_Radeon_Rebuild_Assets/a4(1).jpg">
+		<Hash value="9204556faab288dcb5361ec1dd46bc11"/>
+	</Texture>
+	<Texture name="abit_ab9_quad_gt" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="AMD_Radeon_Rebuild_Assets/abit_ab9_quad_gt.jpg">
+		<Hash value="d82bd247ca552d434fa1f67699b7df55"/>
+	</Texture>
+	<Texture name="5870_gpu-s" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="AMD_Radeon_Rebuild_Assets/5870_gpu-s.jpg">
+		<Hash value="28043556e61eb3fee240ab92895bb121"/>
+	</Texture>
+	<Texture name="t3" texturemode="0" texturefilter="3" textureaddressx="0" textureaddressy="0" rgbcurve="-1.000000" file="AMD_Radeon_Rebuild_Assets/t3.jpg">
+		<Hash value="5bb335a21a205a90db4446a85259de25"/>
+	</Texture>
+	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="a4-L894f782a148b33af1e39a0efed952d69"  label="a4" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.208637,G=0.205079,B=0.208637,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="a4(1).jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"  label="Color_008" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.012983,G=0.012983,B=0.012983,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="ceramika_biala-G1a1cab32125024c9e8bfb74b19b939a3"  label="ceramika_biala" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=0.955973,B=0.955973,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Kondensator_metal-Gd3b4ca9ef3c47e53d099a8038a4ba682"  label="Kondensator_metal" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.527115,G=0.527115,B=0.527115,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Plastik_czarny-G8b7de129ea66e27b00aaa6d52a01f0e9"  label="Plastik_czarny" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.141263,G=0.141263,B=0.141263,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="abit_ab9_quad_gt-L1b6bfe9ede7ca380be748d983a1c0e10"  label="abit_ab9_quad_gt" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.162029,G=0.174647,B=0.187821,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="abit_ab9_quad_gt.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Metal_chip-G73e85b99c5afd6dc0f3ee9f7de9bfb63"  label="Metal_chip" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.396755,G=0.396755,B=0.396755,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="5870_gpu-s-L55de5f95b15a1edf62aa8724ab0e0ac2"  label="5870_gpu-s" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.119538,G=0.116971,B=0.090842,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="5870_gpu-s.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="ceramika_elekroniczna-G6876fb7e1c98844e8bddf701066e2526"  label="ceramika_elekroniczna" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.082283,G=0.082283,B=0.082283,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Metal_DVI-Gb688d7dbf569459eb6fd85d2d4025841"  label="Metal_DVI" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.715693,G=0.715693,B=0.715693,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0046_Gold-G0862c16d4d1e89c26d0a4b89367fa622"  label="0046_Gold" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=0.679542,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="t3-L0b8854ad38f0a6c65807928d28195609"  label="t3" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.158961,G=0.155926,B=0.165132,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="t3.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_002-G9d970e49df2d68bd3d5bc08875228747"  label="Color_002" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.564712,G=0.564712,B=0.564712,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_A07-G8b299fb0f94b8c7fe3ffbe71fe2bd2d2"  label="Color_A07" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.603827,G=0.021219,B=0.021219,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Kondensator_niebieski-Gd147dc47688214aa7176965876a049e8"  label="Kondensator_niebieski" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.000000,G=0.520996,B=1.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_009-G5b4467b76700e0fa86070f5ce8878854"  label="Color_009" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>
